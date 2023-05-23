@@ -1,5 +1,8 @@
 using System;
 namespace test
+class bbb{
+    
+}
 {
     class program
     {
